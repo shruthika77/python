@@ -1,0 +1,40 @@
+dunger methods(__r__)
+class students:#dynamic programming
+pass
+rabbit=student()#instances of class
+rabbit.gender="animal"
+(constructor 
+def__init__(parameter))# intializing values
+
+class student
+
+constructor is a process when creating a class it automatically execute the function
+
+for command line argument - import sys
+commandline arguments- file.py are 0,1,2
+      			index	-  1,2,3
+
+walrus operator :=
+
+regular expressions  import re 
+dic(function name like math)#displays the functions program
+
+.=alphabets(lower,upper),numbers,underscore,whitespace
+?=zero/one repetition
+*=zer/more repetition
++=one/more repetition
+()=group
+[]=combination
+^=start
+$=end
+{}= no of repetiton
+example:
+RTC2021BAI004
+^RTC2021BAI[0-9]{3}$
+if rematch( ,input.string):
+  print("AIDS","BATCH",2021)
+print(AIDS)
+os module(few function)
+
+
+debugging (quick viewing)
